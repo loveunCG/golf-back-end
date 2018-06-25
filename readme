@@ -1,0 +1,11 @@
+## Development
+
+Rename the .env.example to env
+
+To generate key run command 
+
+php artisan key:generate
+
+To start the project run command
+
+php artisan serve
